@@ -32,7 +32,7 @@ python -m pip install -r requirements.txt
 ```bash
 usage: pdfcrack.py [-h] [-f F] [-w W] 
 
-SSH brute force
+PDF Cracker
 
 options:
   -h, --help  show this help message and exit
